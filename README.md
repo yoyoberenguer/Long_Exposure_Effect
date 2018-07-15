@@ -6,13 +6,13 @@ The paths of bright moving objects become clearly visible. Clouds form broad ban
 
 # Requirments
 if you are using the source Exposure.py you will need the following libraries
-
+'''
   - Pyglet  (pip install pyglet)
   
   - Pygame  (pip install pygame)
   
   - AVBin   https://avbin.github.io/AVbin/Download.html --> download AVbin binary installer
-  
+'''
 Pyglet installed without AVBin will throw the following error message 
 - WAVEFormatException: AVbin is required to decode compressed media
 
