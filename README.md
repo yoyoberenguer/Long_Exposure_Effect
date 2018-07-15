@@ -45,5 +45,16 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 
 ** The algorythm will not process the data for specific frames (This will slighly improve the overall process).
 
+| **Input (video)** | **Output (image)** |
+|:---------:|:----------:|
+| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/Image1.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/LongExposure1.png) |
+| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/Image2.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/LongExposure2.png) |
+
+
 # Links for OPENCV
 https://github.com/kelvins 
+http://www.pyimagesearch.com/2017/08/14/long-exposure-with-opencv-and-python/
+
+# PYGLET Sound and Video
+https://pyglet.readthedocs.io/en/pyglet-1.2-maintenance/programming_guide/media.html
+
