@@ -33,6 +33,7 @@ New versions of AVbin as they are released may support additional formats, or fi
 C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png 
 
 # Arguments
+```
 -video: you must pass the file path and file name as the video argument. E.g.: PATH\MyVideo.avi. (PATH = C:)
 
 -output: you must pass the file path and file name for the output file (image). E.g. PATH\MyLongExposureEffect.png.
@@ -44,6 +45,7 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 -end: End the averaging at a specific time, must be > 0
 
 ** The algorythm will not process the data for specific frames (This will slighly improve the overall process).
+```
 
 | **Input (video)** | **Output (image)** |
 |:---------:|:----------:|
