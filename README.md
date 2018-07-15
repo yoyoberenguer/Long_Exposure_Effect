@@ -47,8 +47,8 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 
 | **Input (video)** | **Output (image)** |
 |:---------:|:----------:|
-| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/Image1.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/LongExposure1.png) |
-| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/Image2.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/Assets/LongExposure2.png) |
+| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image1.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure1.png) |
+| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image2.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure2.png) |
 
 
 # Links for OPENCV
