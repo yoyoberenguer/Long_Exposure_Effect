@@ -35,7 +35,7 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 # Arguments
 -video: you must pass the file path and file name as the video argument. E.g.: PATH\MyVideo.avi. (PATH = C:)
 
--output: you must pass the file path and file name for the output file (image). E.g. PATH\MyLongExposureEffect.png. (PATH = C:)
+-output: you must pass the file path and file name for the output file (image). E.g. PATH\MyLongExposureEffect.png.
 
 -iter: you can pass a step value as an argument. Its default value is 1. It is used to skip some frames and make the processing **faster. Keep in mind that using higher step values will result in losing frames/information. (must be > 0)
 
@@ -49,6 +49,7 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 |:---------:|:----------:|
 | ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image1.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure1.png) |
 | ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image2.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure2.png) |
+| ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image3.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure3.png) |
 
 
 # Links for OPENCV
