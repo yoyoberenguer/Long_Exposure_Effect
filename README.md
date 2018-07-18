@@ -13,6 +13,8 @@ if you are using the source Exposure.py you will need the following libraries
   - Pygame  (pip install pygame)
   
   - AVBin   https://avbin.github.io/AVbin/Download.html --> download AVbin binary installer
+  
+  - Numpy  
 ```
 Pyglet installed without AVBin will throw the following error message 
 - WAVEFormatException: AVbin is required to decode compressed media
