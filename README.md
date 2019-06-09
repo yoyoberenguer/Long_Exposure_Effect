@@ -1,11 +1,11 @@
-# Long exposure with Pyglet, Pygame and Python
+## Long exposure with Pyglet, Pygame and Python
 
-from WIKIPEDIA 
+### from WIKIPEDIA 
 
 Long-exposure, time-exposure, or slow-shutter photography involves using a long-duration shutter speed to sharply capture the stationary elements of images while blurring, smearing, or obscuring the moving elements. Long-exposure photography captures one element that conventional photography does not: an extended period of time.
 The paths of bright moving objects become clearly visible. Clouds form broad bands, vehicle lights draw bright streaks, stars leave trails in the sky, and water waves appear smooth. Only bright objects leave visible trails, whereas dark objects usually disappear. Boats in long exposures disappear during daytime, but draw bright trails from their lights at night.
 
-## Requirements
+### Requirements
 if you are using the source Exposure.py you will need the following libraries
 ```
   - Pyglet  (pip install pyglet)
@@ -19,7 +19,7 @@ if you are using the source Exposure.py you will need the following libraries
 Pyglet installed without AVBin will throw the following error message 
 - WAVEFormatException: AVbin is required to decode compressed media
 
-## Supported media types
+### Supported media types
 If AVbin is not installed, only uncompressed RIFF/WAV files encoded with linear PCM can be read.
 With AVbin, many common and less-common formats are supported. Due to the large number of combinations of audio and video codecs, options, and container formats, it is difficult to provide a complete yet useful list. Some of the supported audio formats are:
 
@@ -32,10 +32,10 @@ AVI, DivX, H.263, H.264, MPEG, MPEG-2, OGG/Theora, Xvid, WMV
 For a complete list, see the AVbin sources. Otherwise, it is probably simpler to simply try playing back your target file with the media_player.py example.
 New versions of AVbin as they are released may support additional formats, or fix errors in the current implementation. AVbin is completely future- and backward-compatible, so no change to pyglet is needed to use a newer version of AVbin – just install it in place of the old version.
 
-## Usage
+### Usage
 C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png 
 
-## Arguments
+### Arguments
 ```
 -video: you must pass the file path and file name as the video argument. E.g.: PATH\MyVideo.avi. (PATH = C:)
 
@@ -57,10 +57,10 @@ C:\>python Exposure.py -v Assets\\cascade11.ts -o LongExposure.png
 | ![Input](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/Image3.png) | ![Output](https://github.com/yoyoberenguer/Long_Exposure_Effect/blob/master/Assets/LongExposure3.png) |
 
 
-### Links for OPENCV
+#### Links for OPENCV
 https://github.com/kelvins 
 http://www.pyimagesearch.com/2017/08/14/long-exposure-with-opencv-and-python/
 
-### PYGLET Sound and Video
+#### PYGLET Sound and Video
 https://pyglet.readthedocs.io/en/pyglet-1.2-maintenance/programming_guide/media.html
 
